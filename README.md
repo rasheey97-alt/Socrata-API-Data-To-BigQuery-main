@@ -1,5 +1,5 @@
 # Socrata-API-Data-To-BigQuery
-![image](https://github.com/krissemmy/Socrata-API-Data-To-BigQuery/assets/119800888/59e25b7d-a151-4e3d-97ec-9d85e099c1dc)
+![image](https://github.com/rasheey97-alt/Socrata-API-Data-To-BigQuery/assets/119800888/59e25b7d-a151-4e3d-97ec-9d85e099c1dc)
 
 
 ## Overview
@@ -127,7 +127,7 @@ perform the following on your Google Cloud Platform
     ```
     ~/.google/credentials/:/.google/credentials:ro
     ```
-    ![image](https://github.com/krissemmy/Socrata-API-Data-To-BigQuery/assets/119800888/5b21c7f8-0605-434c-9885-c3b0662c4d3a)
+    ![image](https://github.com/rasheeey97-alt/Socrata-API-Data-To-BigQuery/assets/119800888/5b21c7f8-0605-434c-9885-c3b0662c4d3a)
 
 
 3. build airflow container image with:
